@@ -1,7 +1,7 @@
 ## Arduino CD4094BE CMOS 8-Stage Shift-and-Store Bus Register
 
   ### Wiring
-  | Pin Name |     pin No (IC)  |  Pin No (Microcontroller)  |
+  | Pin Name |     Pin No (IC)  |  Pin No (Microcontroller)  |
   | :------------: | :------------: | :------------: |
   | Clock | 3 | 8 |
   | Data| 2 | 7 |
